@@ -1,7 +1,7 @@
 {
   "name": "makreo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automate repetitive manipulations with your codebase. Or create a codebase generator. Or something else.",
   "keywords": [
     "macro",
     "generator",
